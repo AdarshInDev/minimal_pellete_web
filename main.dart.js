@@ -64538,7 +64538,7 @@ return new A.x6(s,new A.F0(B.IB,$.aC()),B.k)}}
 A.x6.prototype={
 oY(){var s=0,r=A.R(t.H),q=1,p,o=this,n,m,l,k,j,i,h,g
 var $async$oY=A.S(function(a,b){if(a===1){p=b
-s=q}while(true)switch(s){case 0:i=A.fa("https://adarshindev.github.io/my-cors/http://colormind.io/api/")
+s=q}while(true)switch(s){case 0:i=A.fa("https://api.allorigins.win/raw?url=http://colormind.io/api/")
 h=B.bX.JP(A.av(["model","default","input",A.a(["N","N","N","N","N"],t.s)],t.N,t.K),null)
 q=3
 s=6
